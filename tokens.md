@@ -2,4 +2,4 @@
 
 ## Dell Ubuntu:  
 ### Abril - 2022
-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
+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
