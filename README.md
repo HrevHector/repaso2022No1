@@ -12,7 +12,3 @@ Esta nota es solo una prueba de un commit en linea
 ### Prueba Pull rebase
 Esta nota se hizo en repositorio online
 Esta nota se hizo en repositorio local
-
-
-### Segundo cambio en contribucion
-Esto deberia causar un conflicto
